@@ -33,11 +33,11 @@ Objective 1: From the descriptive statistics, Of the 500 samples, The regional d
 Crop distribution was relatively even, with cotton being the most frequently cultivated (17.8%), and soybeans the least (15%). <br /> Approximately half of the fields used fertiliser (49.2%), while the other half did not (50.8%). Similarly, irrigation was reported in just over half the cases (51.4%), with 48.6% not using irrigation. Sunny Weather conditions was were most cultivations were carried out. <br /> The average rainfall across all observations was 542.70 mm, Mean temperature was 27.68°C, average time to harvest was 105.32 days, The average yield was 4.65 tons per hectare. <br />
 Rice had the highest yield at 422.78 tonnes <br />
 
-Objective 2: There was a statistically significant difference in yield for fertiliser used (M = 5.35, SD = 1.51) and fertiliser not used (M = 3.97, SD = 1.64), t(498) = 9.78, p = <.001 <br />
+Objective 2: There was a statistically significant difference in yield for fertiliser used (_M_ = 5.35, _SD_ = 1.51) and fertiliser not used (_M_ = 3.97, _SD_ = 1.64), _t_(498) = 9.78, _p_ = <.001 <br />
 
-Objective 3: There was a statistically significant difference in yield for irrigation used (M = 5.32, SD = 1.54) and irrigation not used (M = 3.94, SD = 1.62), t(498) = 9.82, p = <.001. <br />
+Objective 3: There was a statistically significant difference in yield for irrigation used (_M_ = 5.32, _SD_ = 1.54) and irrigation not used (_M_ = 3.94, _SD_ = 1.62), _t_(498) = 9.82, _p_ = <.001. <br />
 
-Objective 4: Rainfall and yield per hectare were strongly positively correlated (r =.77, p < .001), indicating that greater rainfall is associated with higher yield. Other variables were not significant and had a low or very low effect size. <br />
+Objective 4: Rainfall and yield per hectare were strongly positively correlated (r =.77, _p_ < .001), indicating that greater rainfall is associated with higher yield. Other variables were not significant and had a low or very low effect size. <br />
 
 Objective 5: Rainfall and temperature had a significant effect on overal yield, which impliles that an increase in these variables would lead to an increase in crop yield. Fertiliser used was also significant, indicating that if fertiliser was used, it would lead to an increase in crop yield. <br />
 
